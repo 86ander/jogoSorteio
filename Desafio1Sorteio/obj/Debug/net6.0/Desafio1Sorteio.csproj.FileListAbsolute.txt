@@ -1,0 +1,15 @@
+C:\Users\ander\source\repos\Desafio1Sorteio\Desafio1Sorteio\obj\Debug\net6.0\Desafio1Sorteio.csproj.AssemblyReference.cache
+C:\Users\ander\source\repos\Desafio1Sorteio\Desafio1Sorteio\obj\Debug\net6.0\Desafio1Sorteio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\source\repos\Desafio1Sorteio\Desafio1Sorteio\obj\Debug\net6.0\Desafio1Sorteio.AssemblyInfoInputs.cache
+C:\Users\ander\source\repos\Desafio1Sorteio\Desafio1Sorteio\obj\Debug\net6.0\Desafio1Sorteio.AssemblyInfo.cs
+C:\Users\ander\source\repos\Desafio1Sorteio\Desafio1Sorteio\obj\Debug\net6.0\Desafio1Sorteio.csproj.CoreCompileInputs.cache
+C:\Users\ander\source\repos\Desafio1Sorteio\Desafio1Sorteio\bin\Debug\net6.0\Desafio1Sorteio.exe
+C:\Users\ander\source\repos\Desafio1Sorteio\Desafio1Sorteio\bin\Debug\net6.0\Desafio1Sorteio.deps.json
+C:\Users\ander\source\repos\Desafio1Sorteio\Desafio1Sorteio\bin\Debug\net6.0\Desafio1Sorteio.runtimeconfig.json
+C:\Users\ander\source\repos\Desafio1Sorteio\Desafio1Sorteio\bin\Debug\net6.0\Desafio1Sorteio.dll
+C:\Users\ander\source\repos\Desafio1Sorteio\Desafio1Sorteio\bin\Debug\net6.0\Desafio1Sorteio.pdb
+C:\Users\ander\source\repos\Desafio1Sorteio\Desafio1Sorteio\obj\Debug\net6.0\Desafio1Sorteio.dll
+C:\Users\ander\source\repos\Desafio1Sorteio\Desafio1Sorteio\obj\Debug\net6.0\refint\Desafio1Sorteio.dll
+C:\Users\ander\source\repos\Desafio1Sorteio\Desafio1Sorteio\obj\Debug\net6.0\Desafio1Sorteio.pdb
+C:\Users\ander\source\repos\Desafio1Sorteio\Desafio1Sorteio\obj\Debug\net6.0\Desafio1Sorteio.genruntimeconfig.cache
+C:\Users\ander\source\repos\Desafio1Sorteio\Desafio1Sorteio\obj\Debug\net6.0\ref\Desafio1Sorteio.dll
